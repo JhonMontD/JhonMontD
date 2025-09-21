@@ -1,4 +1,8 @@
-## Hi there 👋
+# Sobre mí 👋🏻
+
+- Ingeniero Electrónico - ITM  
+- Magíster en Automatización y Control Industrial - ITM  
+- Docente en el Instituto Tecnológico Metropolitano
 
 <!--
 **JhonMontD/JhonMontD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
