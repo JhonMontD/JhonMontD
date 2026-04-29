@@ -3,6 +3,23 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Notebook-generated output files (regenerated on each run)
+BPA_hybrid_results.xlsx
+caseBPA.m
+run_vq_matpower.m
+sensitivity_heatmap.pdf
+sensitivity_heatmap.png
+sensitivity_diff_heatmap.pdf
+sensitivity_diff_heatmap.png
+support_curve.pdf
+support_curve.png
+VQ_curves.pdf
+VQ_curves.png
+VQ_MATPOWER_summary.csv
+VQ_MATPOWER_trace.csv
+matlab_stdout.log
+matlab_stderr.log
+
 # C extensions
 *.so
 
